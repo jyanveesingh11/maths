@@ -1,6 +1,7 @@
 #include<iostream>
 using namespace std;
 int main()
+//  programme no 1
 {
     int a,b,c;
     cout<<"Enter value of a : ";
@@ -8,5 +9,16 @@ int main()
     cout<<"Enter value of b : ";
     cin>>b;
     c = a+b;
-    cout<<"sum of a and b="<<c;2
+    cout<<"sum of a and b="<<c<<endl;
+
+
+
+// programme n0 2
+    int d,e,f;
+    cout<<"Enter value of d : ";
+    cin>>d;
+    cout<<"Enter value of e : ";
+    cin>>e;
+    f = d-e;
+    cout<<"subtaction of d and e="<<f;
 }
